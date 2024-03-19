@@ -1,0 +1,14 @@
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\bin\Debug\net8.0\Curso_cs.exe
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\bin\Debug\net8.0\Curso_cs.deps.json
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\bin\Debug\net8.0\Curso_cs.runtimeconfig.json
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\bin\Debug\net8.0\Curso_cs.dll
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\bin\Debug\net8.0\Curso_cs.pdb
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\obj\Debug\net8.0\Curso_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\obj\Debug\net8.0\Curso_cs.AssemblyInfoInputs.cache
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\obj\Debug\net8.0\Curso_cs.AssemblyInfo.cs
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\obj\Debug\net8.0\Curso_cs.csproj.CoreCompileInputs.cache
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\obj\Debug\net8.0\Curso_cs.dll
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\obj\Debug\net8.0\refint\Curso_cs.dll
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\obj\Debug\net8.0\Curso_cs.pdb
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\obj\Debug\net8.0\Curso_cs.genruntimeconfig.cache
+C:\Users\cpsmc\Documents\Pedro\CBFCursos\Curso_de_Programação_C#\Aula_01.1\Curso_cs\obj\Debug\net8.0\ref\Curso_cs.dll
