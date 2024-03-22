@@ -14,12 +14,12 @@ Agora com o Prompt de Comando aberto pesquise pelo executavel para ver se já en
 Se não estiver intalado o executavel, como na imagem a cima. Faça os seguintes passos:
 
 ## Instalar o DotNet
-- Instalar o <a src="https://dotnet.microsoft.com/pt-br/download" targer="_blanc">DotNet</a>;
+- Instalar o <a href="https://dotnet.microsoft.com/pt-br/download" targer="_blanc">DotNet</a>;
 
 <img align="center" height="180" alt="dotnet" src="../Instalacao/img/dotnet.png"/>
 
 ## Instalar o Visual Studio Code
-- Instalar o <a src="https://code.visualstudio.com/download" targer="_blanc">Visual Studio Code</a>;
+- Instalar o <a href="https://code.visualstudio.com/download" targer="_blanc">Visual Studio Code</a>;
 
 <img align="center" height="200" alt="vscode" src="../Instalacao/img/vscode.png"/>
 
@@ -29,7 +29,7 @@ Se não estiver intalado o executavel, como na imagem a cima. Faça os seguintes
 <img align="center" heigt="200" alt="extensao.vscode" src="../Instalacao/img/extensao.vscode.jpg"/>
 
 ## Instalar o Visual Studio Community
-- Instalar o <a src="https://visualstudio.microsoft.com/pt-br/downloads/" targer="_blanc">Visual Studio Community</a>
+- Instalar o <a href="https://visualstudio.microsoft.com/pt-br/downloads/" targer="_blanc">Visual Studio Community</a>
 
 <img align="center" height="200" alt="vscommunity" src="../Instalacao/img/vscommunity.png"/>
 
